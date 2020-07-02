@@ -1,4 +1,4 @@
-baseURL = "https://zekunmu.netlify.app/"
+baseURL = "https://zekunmu.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
