@@ -5,14 +5,12 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Zekun Mu"
-[[menu.footer]]
-URL = "tools"
-name = "tools"
+[menu.footer]
+name = "Publications"
+weight = 3
+[menu.main]
+name = "Publications"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
