@@ -6,6 +6,10 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Zekun Mu"
 [[menu.main]]
+URL = "publication"
+name = "Publication"
+weight = "2"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
