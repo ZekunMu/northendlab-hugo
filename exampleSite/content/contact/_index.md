@@ -4,8 +4,8 @@ description: this is meta description
 image: images/contact.svg
 menu:
   main:
-    URL: contact
     name: Contact
+    URL: contact
     weight: 1
   footer:
     name: Contact
